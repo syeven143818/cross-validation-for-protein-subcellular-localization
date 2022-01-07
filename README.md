@@ -2,7 +2,7 @@
 
 ![PredictProtein](/images/img1.png)
 
-### Name: 楊士逸
+### Name: Shih-Yi Yang
 ### Student ID: 109258042
 
 ## Description

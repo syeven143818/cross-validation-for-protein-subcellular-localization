@@ -1,0 +1,18 @@
+Rscript hw3_109258042.R --fold 5 --input ./Archaeal_tfpssm.csv --output ./output1.csv
+
+
+Rscript hw3_109258042.R --fold 6 --input ./Archaeal_tfpssm.csv --output ./output2.csv
+
+
+Rscript hw3_109258042.R --fold 7 --input ./Archaeal_tfpssm.csv --output ./output3.csv
+
+
+Rscript hw3_109258042.R --fold 8 --input ./Archaeal_tfpssm.csv --output ./output4.csv
+
+
+Rscript hw3_109258042.R --fold 9 --input ./Archaeal_tfpssm.csv --output ./output5.csv
+
+
+Rscript hw3_109258042.R --fold 10 --input ./Archaeal_tfpssm.csv --output ./output6.csv
+
+
